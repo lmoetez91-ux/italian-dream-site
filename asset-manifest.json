@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/italian-dream/static/css/main.da959898.css",
+    "main.js": "/italian-dream/static/js/main.27e66715.js",
+    "index.html": "/italian-dream/index.html",
+    "main.da959898.css.map": "/italian-dream/static/css/main.da959898.css.map",
+    "main.27e66715.js.map": "/italian-dream/static/js/main.27e66715.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da959898.css",
+    "static/js/main.27e66715.js"
+  ]
+}
