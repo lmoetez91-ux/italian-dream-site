@@ -20,7 +20,7 @@ const Footer = () => {
     'Assistance visa étudiant',
     'Bourse d\'étude',
     'Logement & Foyer',
-    'Support post-arrivée'
+    'Services Application'
   ];
 
   return (
